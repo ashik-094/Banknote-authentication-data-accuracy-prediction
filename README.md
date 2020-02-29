@@ -1,0 +1,2 @@
+# Banknote-authentication-data-accuracy-prediction
+Our main objective was to calculate performance of four data mining algorithms such as Decision tree induction, Naïve Bayes classifier, Random Forest, Support Vector Machine. We worked on a classification data set which already included a class therefore we compared our prediction value with class value to check performance. The dataset was supervised learning. We achieved different accuracy score and confusion matrix considering each algorithm. We sort it out what will be the best classifier for our dataset.
